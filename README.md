@@ -10,7 +10,7 @@ Most of my work is freelance. Clients bring me ideas, and I help turn them into 
 ### A short history
 
 - **Freelance**: AR/VR, game, and Web3 developer for independent clients
-- **Current**: Regional Ambassador, Blockdev, Bogor
+
 
 ### Tech Stack
 
