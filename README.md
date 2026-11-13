@@ -6,10 +6,6 @@ I'm **Arief Noerhidayat**, a developer based in Bogor, Indonesia. I build immers
 
 Most of my work is freelance. Clients bring me ideas, and I help turn them into interactive, playable, or on-chain products.
 
-Outside of client work, I'm a **Regional Ambassador for Blockdev (Bogor)**:
-
-- 🕌 I mentor students at *pesantren* (Islamic boarding schools) in Bogor, introducing them to blockchain and Web3 development.
-- 🌱 I help grow the local builder community so more people in the region can start building on-chain.
 
 ### A short history
 
